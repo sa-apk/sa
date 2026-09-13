@@ -11,7 +11,7 @@
   },
   "notice_box": {
     "enabled": true,
-    "notice_id": 1,
+    "notice_id": 2,
     "can_dismiss": true,
     "title": "জরুরি বিজ্ঞপ্তি / Official Notice",
     "notices": [
