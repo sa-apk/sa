@@ -41,8 +41,8 @@
   },
   "app_update": {
     "enabled": true,
-    "latest_version_code": 10,
-    "latest_version_name": "v2.5.0",
+    "latest_version_code": 11,
+    "latest_version_name": "v2.5.1",
     "force_update": false,
     "title": "নতুন আপডেট এসেছে! (Update Available)",
     "changelog": "• ভিডিও ডাউনলোড স্পিড দ্বিগুণ বৃদ্ধি করা হয়েছে\n• রিলস ও শর্টস ভিডিও স্বয়ংক্রিয় ডাউনলোড সমাধান\n• ইউজার ইন্টারফেস আরও আকর্ষণীয় করা হয়েছে\n• বাগ ফিক্স ও নিরাপত্তা উন্নত করা হয়েছে",
