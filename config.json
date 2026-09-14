@@ -1,34 +1,37 @@
 {
   "profile": {
-    "developer_name": "YASIN ARAFAT 20",
+    "developer_name": "YASIN ARAFAT",
     "developer_role": "Official Modder & Owner",
     "whatsapp_phone": "+880 16133 99995",
+    "whatsapp_sub": "WhatsApp Chat & Call",
     "whatsapp_url": "https://api.whatsapp.com/send?phone=8801613399995",
     "telegram_username": "@YASIN999958",
+    "telegram_sub": "Official Telegram Profile",
     "telegram_url": "https://t.me/yasin999958",
     "facebook_name": "YASIN ARAFAT",
+    "facebook_sub": "Official Facebook Profile",
     "facebook_url": "https://www.facebook.com/profile.php?id=100094241261731"
   },
   "notice_box": {
     "enabled": true,
-    "notice_id": 2,
+    "notice_id": 0,
     "can_dismiss": true,
     "title": "জরুরি বিজ্ঞপ্তি / Official Notice",
     "notices": [
       {
         "id": 1,
         "title": "নোটিশ ১ : সার্ভার অপ্টিমাইজেশন",
-        "message": "12SA DOWNLOADER-এর সার্ভারে নতুন হাই-স্পিড অপ্টিমাইজেশন করা হয়েছে, যাতে ভিডিও আরও দ্রুত ও সহজে ডাউনলোড হয়।"
+        "message": "SA DOWNLOADER-এর সার্ভারে নতুন হাই-স্পিড অপ্টিমাইজেশন করা হয়েছে, যাতে ভিডিও আরও দ্রুত ও সহজে ডাউনলোড হয়।"
       },
       {
         "id": 2,
         "title": "নোটিশ ২ : ডাউনলোড সমস্যা ও সমাধান",
-        "message": "12ওয়াইফাই সংযোগে ডাউনলোড আটকে গেলে বা কোনো সমস্যা হলে অ্যাপ পলিসি অনুযায়ী DNS পরিবর্তন করুন অথবা মোবাইল ডাটা ব্যবহার করুন।"
+        "message": "ওয়াইফাই সংযোগে ডাউনলোড আটকে গেলে বা কোনো সমস্যা হলে অ্যাপ পলিসি অনুযায়ী DNS পরিবর্তন করুন অথবা মোবাইল ডাটা ব্যবহার করুন।"
       },
       {
         "id": 3,
         "title": "নোটিশ ৩ : অফিসিয়াল চ্যানেল",
-        "message": "12নিয়মিত সকল নতুন আপডেট ও সরাসরি যেকোনো সাহায্য পেতে আমাদের অফিসিয়াল টেলিগ্রাম চ্যানেলে যুক্ত থাকুন।"
+        "message": "নিয়মিত সকল নতুন আপডেট ও সরাসরি যেকোনো সাহায্য পেতে আমাদের অফিসিয়াল টেলিগ্রাম চ্যানেলে যুক্ত থাকুন।"
       },
       {
         "id": 4,
@@ -41,12 +44,12 @@
   },
   "app_update": {
     "enabled": true,
-    "latest_version_code": 11,
-    "latest_version_name": "v2.5.1",
+    "latest_version_code": 14,
+    "latest_version_name": "v2.5.0",
     "force_update": false,
     "title": "নতুন আপডেট এসেছে! (Update Available)",
     "changelog": "• ভিডিও ডাউনলোড স্পিড দ্বিগুণ বৃদ্ধি করা হয়েছে\n• রিলস ও শর্টস ভিডিও স্বয়ংক্রিয় ডাউনলোড সমাধান\n• ইউজার ইন্টারফেস আরও আকর্ষণীয় করা হয়েছে\n• বাগ ফিক্স ও নিরাপত্তা উন্নত করা হয়েছে",
     "button_text": "এখনই আপডেট করুন (Update Now)",
-    "apk_url": "https://github.com/your-username/your-repo/releases/download/v2.5.1/app-release.apk"
+    "apk_url": "https://github.com/sa-apk/sa/releases"
   }
 }
