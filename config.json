@@ -44,12 +44,12 @@
   },
   "app_update": {
     "enabled": true,
-    "latest_version_code": 15,
+    "latest_version_code": 16,
     "latest_version_name": "v2.6.0",
     "force_update": true,
     "title": "নতুন আপডেট এসেছে! (Update Available)",
     "changelog": "• ভিডিও ডাউনলোড স্পিড দ্বিগুণ বৃদ্ধি করা হয়েছে\n• রিলস ও শর্টস ভিডিও স্বয়ংক্রিয় ডাউনলোড সমাধান\n• ইউজার ইন্টারফেস আরও আকর্ষণীয় করা হয়েছে\n• বাগ ফিক্স ও নিরাপত্তা উন্নত করা হয়েছে",
     "button_text": "এখনই আপডেট করুন (Update Now)",
-    "apk_url": "https://github.com/sa-apk/sa/releases"
+    "apk_url": "https://github.com/sa-apk/sa/releases.apk"
   }
 }
