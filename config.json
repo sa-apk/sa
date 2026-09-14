@@ -15,13 +15,13 @@
   "notice_box": {
     "enabled": true,
     "notice_id": 0,
-    "can_dismiss": true,
+    "can_dismiss": false,
     "title": "জরুরি বিজ্ঞপ্তি / Official Notice",
     "notices": [
       {
         "id": 1,
         "title": "নোটিশ ১ : সার্ভার অপ্টিমাইজেশন",
-        "message": "SA DOWNLOADER-এর সার্ভারে নতুন হাই-স্পিড অপ্টিমাইজেশন করা হয়েছে, যাতে ভিডিও আরও দ্রুত ও সহজে ডাউনলোড হয়।"
+        "message": "k SA DOWNLOADER-এর সার্ভারে নতুন হাই-স্পিড অপ্টিমাইজেশন করা হয়েছে, যাতে ভিডিও আরও দ্রুত ও সহজে ডাউনলোড হয়।"
       },
       {
         "id": 2,
@@ -44,9 +44,9 @@
   },
   "app_update": {
     "enabled": true,
-    "latest_version_code": 14,
-    "latest_version_name": "v2.5.0",
-    "force_update": false,
+    "latest_version_code": 15,
+    "latest_version_name": "v2.6.0",
+    "force_update": true,
     "title": "নতুন আপডেট এসেছে! (Update Available)",
     "changelog": "• ভিডিও ডাউনলোড স্পিড দ্বিগুণ বৃদ্ধি করা হয়েছে\n• রিলস ও শর্টস ভিডিও স্বয়ংক্রিয় ডাউনলোড সমাধান\n• ইউজার ইন্টারফেস আরও আকর্ষণীয় করা হয়েছে\n• বাগ ফিক্স ও নিরাপত্তা উন্নত করা হয়েছে",
     "button_text": "এখনই আপডেট করুন (Update Now)",
