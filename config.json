@@ -15,13 +15,13 @@
   "notice_box": {
     "enabled": true,
     "notice_id": 0,
-    "can_dismiss": false,
+    "can_dismiss": true,
     "title": "জরুরি বিজ্ঞপ্তি / Official Notice",
     "notices": [
       {
         "id": 1,
         "title": "নোটিশ ১ : সার্ভার অপ্টিমাইজেশন",
-        "message": "k SA DOWNLOADER-এর সার্ভারে নতুন হাই-স্পিড অপ্টিমাইজেশন করা হয়েছে, যাতে ভিডিও আরও দ্রুত ও সহজে ডাউনলোড হয়।"
+        "message": "SA DOWNLOADER-এর সার্ভারে নতুন হাই-স্পিড অপ্টিমাইজেশন করা হয়েছে, যাতে ভিডিও আরও দ্রুত ও সহজে ডাউনলোড হয়।"
       },
       {
         "id": 2,
